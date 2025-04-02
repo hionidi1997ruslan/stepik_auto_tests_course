@@ -1,3 +1,5 @@
 # stepik_auto_tests_course
 stepik_auto_tests_course
 lalalala tralalala
+olololo trolololo
+NU JE DAVAI
